@@ -1,5 +1,6 @@
 # Content: Unsupervised Learning
 ## Project: Creating Customer Segments
+#### Rebeca Andrade Baldomir
 
 ### Install
 
